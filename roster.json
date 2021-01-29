@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Walker",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Atwater",
+        "available": false,
+        "shifts": 0
+    },
+    {
+        "name": "Farrell",
+        "available": false,
+        "shifts": 0
+    },
+    {
+        "name": "King",
+        "available": false,
+        "shifts": 0
+    },
+    {
+        "name": "Todd",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Steigerwalt",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Walden",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Dixon",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Lala",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Finger",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Hitchcock",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Anderson",
+        "available": false,
+        "shifts": 0
+    },
+    {
+        "name": "Bradley",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Gauthier",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Harper",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Cecil",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Simonsen",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Gallegos",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Norton",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Eckler",
+        "available": true,
+        "shifts": 0
+    },
+    {
+        "name": "Hastings",
+        "available": true,
+        "shifts": 0
+    }
+]
