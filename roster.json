@@ -1,7 +1,7 @@
 [
     {
         "name": "Walker",
-        "available": true,
+        "available": false,
         "shifts": 0
     },
     {
@@ -17,22 +17,22 @@
     {
         "name": "King",
         "available": false,
-        "shifts": 0
+        "shifts": 1
     },
     {
         "name": "Todd",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Steigerwalt",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Walden",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Dixon",
@@ -41,8 +41,8 @@
     },
     {
         "name": "Lala",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Finger",
@@ -51,8 +51,8 @@
     },
     {
         "name": "Hitchcock",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Anderson",
@@ -61,8 +61,8 @@
     },
     {
         "name": "Bradley",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Gauthier",
@@ -71,18 +71,18 @@
     },
     {
         "name": "Harper",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Cecil",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Simonsen",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     },
     {
         "name": "Gallegos",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Hastings",
-        "available": true,
-        "shifts": 0
+        "available": false,
+        "shifts": 1
     }
 ]
